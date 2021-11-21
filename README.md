@@ -1,5 +1,7 @@
 # SpinWinGame
 This is simple Demo Spin Win Game
+👀
+Watch this Tutorial ON Youtube👇👇👇
+https://youtu.be/EPLtlGzEBHM
 
-
-![spinWin](https://user-images.githubusercontent.com/61373662/139518216-7b8cc2de-4051-4142-86f4-bbbde32b0342.gif)
+![SpinWin Game](https://user-images.githubusercontent.com/61373662/142747486-4c8e7442-79ad-4637-a5bc-afd7a10c5cec.gif)
